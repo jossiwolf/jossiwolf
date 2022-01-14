@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Jossi 🌱! I work as an Android Programmer at Snapp Mobile and sometimes I like doing some open source stuff :) Take a look around!
+
+If you're looking for me, look where there are vegan croissants ;)
 <!--
 **jossiwolf/jossiwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
