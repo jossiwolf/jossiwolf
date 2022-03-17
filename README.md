@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jossi 🌱 I work as an Android Programmer at Snapp Mobile and sometimes I like doing some open source stuff :) Take a look around!
+I'm Jossi 🌱 I work as a Software Engineer at Google. Currently, I am working on Jetpack Compose and Accompanist!
 
 If you're looking for me, look where there are vegan croissants ;)
 
